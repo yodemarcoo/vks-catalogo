@@ -14,8 +14,7 @@ export function Header() {
           />
 
           <span class="brand-copy">
-            <strong>VemCantar</strong>
-            <span>Karaokê Show</span>
+            <strong>VemCantar Karaokê Show</strong>
           </span>
         </a>
 
