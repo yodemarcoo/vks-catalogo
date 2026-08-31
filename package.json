@@ -1,0 +1,22 @@
+{
+  "name": "vks-catalogo-musicas",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ark-ui/solid": "5.39.1",
+    "solid-js": "1.9.15"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.0",
+    "typescript": "^5.8.3",
+    "vite": "7.3.6",
+    "vite-plugin-solid": "2.11.14"
+  }
+}
